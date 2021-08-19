@@ -4,7 +4,7 @@ buildscript {
         mavenLocal()
         maven {
             name = "forge"
-            url = "http://files.minecraftforge.net/maven"
+            url = "https://nexus.sirblobman.xyz/repository/cauldron/"
         }
         maven {
             name = "sonatype"
