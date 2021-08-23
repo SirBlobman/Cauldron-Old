@@ -26,7 +26,6 @@ I am not accepting any PRs to this restoration.
 The project will remain as-is unless there is a need to repair something.
 
 ## Credits
--------
 * [MCP](http://mcp.ocean-labs.de) - permission to use data to make Cauldron.
 * [Forge](http://www.minecraftforge.net) - mod support.
 * [CraftBukkit](http://bukkit.org) - plugin support.
