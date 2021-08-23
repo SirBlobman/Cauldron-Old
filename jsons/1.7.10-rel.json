@@ -190,22 +190,22 @@
     },
     {
       "name": "org.yaml:snakeyaml:1.9",
-      "url" : "https://repo1.maven.org/maven2/",
+      "url" : "https://repo1.maven.org/maven2",
       "serverreq":true
     },
     {
       "name": "commons-lang:commons-lang:2.6",
-      "url" : "https://repo1.maven.org/maven2/",
+      "url" : "https://repo1.maven.org/maven2",
       "serverreq":true
     },
     {
       "name": "org.avaje:ebean:2.7.3",
-      "url" : "https://repo1.maven.org/maven2/",
+      "url" : "https://repo1.maven.org/maven2",
       "serverreq":true
     },
     {
       "name": "jline:jline:2.6",
-      "url" : "https://repo1.maven.org/maven2/",
+      "url" : "https://repo1.maven.org/maven2",
       "serverreq":true
     },
     {
@@ -215,32 +215,32 @@
     },
     {
       "name": "org.fusesource.jansi:jansi:1.8",
-      "url" : "https://repo1.maven.org/maven2/",
+      "url" : "https://repo1.maven.org/maven2",
       "serverreq":true
     },
     {
       "name": "net.sourceforge.argo:argo:2.25",
-      "url" : "https://repo1.maven.org/maven2/",
+      "url" : "https://repo1.maven.org/maven2",
       "serverreq":true
     },
     {
       "name": "com.googlecode.json-simple:json-simple:1.1",
-      "url" : "https://repo1.maven.org/maven2/",
+      "url" : "https://repo1.maven.org/maven2",
       "serverreq":true
     },
     {
       "name": "org.xerial:sqlite-jdbc:3.7.2",
-      "url" : "https://repo1.maven.org/maven2/",
+      "url" : "https://repo1.maven.org/maven2",
       "serverreq":true
     },
     {
       "name": "mysql:mysql-connector-java:5.1.14",
-      "url" : "https://repo1.maven.org/maven2/",
+      "url" : "https://repo1.maven.org/maven2",
       "serverreq":true
     },
     {
       "name": "javax.persistence:persistence-api:1.0.2",
-      "url" : "https://repo1.maven.org/maven2/",
+      "url" : "https://repo1.maven.org/maven2",
       "serverreq":true
     },
     {
