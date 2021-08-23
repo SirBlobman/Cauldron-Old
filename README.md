@@ -10,7 +10,7 @@ The instructions below should work for most setups. Make sure to compile this wi
 3) Setup the workspace: `gradlew setupCauldron`
 4) Build jars/binaries: `gradlew buildPackages`
 
-Note: all binaries will be in distributions folder
+Note: all binaries will be in the `distributions` folder
 
 ## Profiling
 We use YourKit as our Java Profiler.
